@@ -1,0 +1,5 @@
+include react_live_clock_port/bundle.js
+include react_live_clock_port/bundle.js.map
+include react_live_clock_port/metadata.json
+include README.md
+include LICENSE.md

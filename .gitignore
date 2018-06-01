@@ -1,0 +1,15 @@
+build/
+coverage/
+dist/
+lib/
+lib/bundle.js*
+node_modules/
+react_live_clock_port/metadata.json
+react_live_clock_port/bundle.js*
+.npm
+vv/
+venv/
+*.pyc
+*.egg-info
+*.log
+.DS_Store
